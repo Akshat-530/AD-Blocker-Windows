@@ -31,9 +31,9 @@ This batch script provides a simple, menu-driven interface to configure or reset
 
 ## 🚀 How to Use
 
-1. **Download** or clone the repository.
+1. **Download** The zip from Releases.
 2. **Run** the script:
-   - Double-click `SetDNS_AdBlocker.bat`
+   - Double-click `AdBlocker.bat`
    - It will request **administrator access** automatically if needed.
 3. **Choose an option**:
    - Press `1` to apply AdGuard DNS.
